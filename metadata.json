@@ -1,0 +1,6 @@
+{
+  "name": "M3ak — Moroccan Darija AI Browser Assistant",
+  "description": "Production-ready Chrome Extension and AI Browser Assistant that understands webpages, highlights interactive elements, and guides users step-by-step in natural Moroccan Darija.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
